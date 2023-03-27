@@ -86,8 +86,6 @@ def stash_start(final_list):
             subproc.kill()
             pyquit()
 
-        test = input()
-        print(test)
         default_browser = webbrowser.get()
         default_browser_name = default_browser.name
         default_browser_basename = default_browser.basename
