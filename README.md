@@ -16,7 +16,7 @@ Zsh
 https://stackoverflow.com/questions/11530090/adding-a-new-entry-to-the-path-variable-in-zsh
 [archive] https://archive.ph/quobn
 
-5. Run main.py with command python main.py and your default browser should start now and connect to a port 9999 on localhost. Plase exit with an "Quit" option in a tray icon as exiting with ctrl+c does not kill process yet and an icon stays. Alternatively you can download .desktop file and .bin file nad just run it like normal program. You need to create .bin file yourself with nuitka3 or download here. 
+5. Run main.py with command python main.py and your default browser should start now and connect to a port 9999 on localhost. Plase exit with an "Quit" option in a tray icon as exiting with ctrl+c does not kill process yet and an icon stays. Alternatively you can download .desktop file (and add your username) and .bin file nad just run it like normal program. You need to create .bin file yourself with nuitka3 or download here. 
 https://anonymfile.com/59re5/main.bin
 
 | Algorithm        | Hash           |
