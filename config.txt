@@ -1,0 +1,2 @@
+Icon: /home/$YOUR_USERNAME_HERE/Applications/Stash/stash.png 
+Port: 9999
