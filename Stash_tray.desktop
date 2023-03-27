@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Stash
+Comment=Video organizer
+Exec="/home/$YOUR_USERNAME/Applications/Stash/main.bin"
+Terminal=false
+Type=Application
+Icon=/home/$YOUR_USERNAME/Applications/Stash/stash.png
+StartupWMClass=Stash
+Categories=Multimedia;
