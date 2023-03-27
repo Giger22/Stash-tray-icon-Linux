@@ -12,6 +12,7 @@ Generates stash tray icon.
 Bash
 https://phoenixnap.com/kb/linux-add-to-path 
 [archive] https://archive.is/brU9G
+
 Zsh
 https://stackoverflow.com/questions/11530090/adding-a-new-entry-to-the-path-variable-in-zsh
 [archive] https://archive.ph/quobn
