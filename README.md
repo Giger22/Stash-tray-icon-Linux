@@ -14,7 +14,7 @@ Generates stash tray icon.
 [Zsh](https://stackoverflow.com/questions/11530090/adding-a-new-entry-to-the-path-variable-in-zsh),
 [archive.is](https://archive.ph/quobn).
 
-5. Run main.py with command python main.py and your default browser should start now and connect to a port 9999 on localhost. Plase exit with an "Quit" option in a tray icon as exiting with ctrl+c does not kill process yet and an icon stays. Alternatively you can download .desktop file (and add your username) and .bin file nad just run it like normal program. You need to create .bin file yourself with nuitka3 or download from [Anonymfile.com](https://anonymfile.com/59re5/main.bin)
+5. Run main.py with command python main.py and your default browser should start now and connect to a port 9999 on localhost. Plase exit with an "Quit" option in a tray icon as exiting with ctrl+c does not kill process yet and an icon stays. Alternatively you can download .desktop file (and add your username) and .bin file nad just run it like normal program. You need to download .bin file [from herem](https://github.com/Giger22/Stash-tray-icon-Linux/releases/tag/0.1) or create .bin file yourself with nuitka3.
 
 | Algorithm        | Hash           |
 | ------------- |:-------------:|
