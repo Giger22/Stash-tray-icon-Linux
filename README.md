@@ -1,0 +1,1 @@
+# Stash-tray-icon-Linux
