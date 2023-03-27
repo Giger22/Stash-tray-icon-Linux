@@ -16,5 +16,12 @@ Zsh
 https://stackoverflow.com/questions/11530090/adding-a-new-entry-to-the-path-variable-in-zsh
 [archive] https://archive.ph/quobn
 
-5. Run main.py with command python main.py and your default browser should start now and connect to a port 9999 on localhost. Plase exit with an "Quit" option in a tray icon as exiting with ctrl+c does not kill process yet and an icon stays. Alternatively you can download .desktop file and .bin file nad just run it like normal program. 
+5. Run main.py with command python main.py and your default browser should start now and connect to a port 9999 on localhost. Plase exit with an "Quit" option in a tray icon as exiting with ctrl+c does not kill process yet and an icon stays. Alternatively you can download .desktop file and .bin file nad just run it like normal program. You need to create .bin file yourself with nuitka3 or download here. 
+https://anonymfile.com/59re5/main.bin
+
+d57f87609269177b95c1b69bf2a15c1fbdd44b25de9e069a0e10adeba3d3532bca51f4b7423a97d7b078ea540bd5eca0d0fe959638440279ef22719e10d095fd sha-512
+c8aaf4d2f68c43766162f020ce0be2f184428a9eae3f5b919103740f903f1441 sha-256
+ca8e49712bae29e22c391c7215b95b2a6971bb81 sha-1
+ce1694a89b54ec70b2c3fb3fe247fcbb md5
+
 I created .bin file with nuitka3 and I had to comment line 98 because for some reason .desktop file opened two tabs but when executing .bin file or running main.py with pyton it opens only one.
