@@ -26,4 +26,4 @@ https://anonymfile.com/59re5/main.bin
 | sha-1| ca8e49712bae29e22c391c7215b95b2a6971bb81|
 | md5| ce1694a89b54ec70b2c3fb3fe247fcbb|
 
-I created .bin file with nuitka3 and I had to comment line 98 because for some reason .desktop file opened two tabs but when executing .bin file or running main.py with pyton it opens only one.
+I created the .bin file with nuitka3 and I had to comment line 98 because for some reason a .desktop file opened two tabs but when executing .bin file or running main.py with pyton it opens only one.
