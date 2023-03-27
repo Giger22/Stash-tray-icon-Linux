@@ -16,4 +16,4 @@ Zsh
 https://stackoverflow.com/questions/11530090/adding-a-new-entry-to-the-path-variable-in-zsh
 [archive] https://archive.ph/quobn
 
-5. Run main.py with command python main.py and your default browser should start now and connect to a port 9999 on localhost. Plase exit with "Quit" option in tray icon as exiting with ctrl+c does not kill process yet and icon stays.
+5. Run main.py with command python main.py and your default browser should start now and connect to a port 9999 on localhost. Plase exit with an "Quit" option in a tray icon as exiting with ctrl+c does not kill process yet and an icon stays.
